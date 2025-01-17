@@ -178,3 +178,7 @@ footer input[type='text'], footer textarea{
     border: none;
     /* box korar jonno */
 }
+/* Responsive Media Query */
+.hide{
+    display: none;
+}
